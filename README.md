@@ -1,1 +1,1 @@
-# typenet-boilerplates
+# typenet boilerplate
