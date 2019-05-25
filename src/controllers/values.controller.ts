@@ -27,11 +27,11 @@ export class ValuesController {
 
     @HttpPut(':id')
     public update(@FromRoute(':id') id: string): ActionResult {
-        return new NoContent(id);
+        return new NoContent();
     }
 
     @HttpDelete(':id')
     public delete(@FromRoute(':id') id: string): ActionResult {
-        return new NoContent(id);
+        return new NoContent();
     }
 }
