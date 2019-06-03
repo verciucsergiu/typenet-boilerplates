@@ -16,6 +16,6 @@
     "typescript": "3.4.5"
   },
   "dependencies": {
-    "@typenet/core": "0.0.14"
+    "@typenet/core": "0.0.15"
   }
 }
